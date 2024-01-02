@@ -1,0 +1,2 @@
+# wordle
+Greta + Freddy Wordle
